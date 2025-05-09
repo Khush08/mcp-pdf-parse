@@ -1,0 +1,5 @@
+node_modules/*
+
+# ignore the build directory
+build/*
+.DS_Store
